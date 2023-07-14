@@ -1,4 +1,4 @@
-# Customer Segmentation for Cross-Selling & Up-Selling
+# Cross-Selling through analysis of baby product purchase history
 
 ## Objective
 The goal of this project is to use category purchase history to segment customers and make cross-selling and up-selling recommendations. Based on the needs of the sales team, we aim to make product recommendations to high-potential customers to encourage cross-selling and up-selling and reduce customer churn.
