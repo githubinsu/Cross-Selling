@@ -3,6 +3,10 @@
 ## Objective
 The goal of this project is to use category purchase history to segment customers and make cross-selling and up-selling recommendations. Based on the needs of the sales team, we aim to make product recommendations to high-potential customers to encourage cross-selling and up-selling and reduce customer churn.
 
+## Data Description
+I have utilized publicly available sales data, which has been anonymized and processed for the purpose of analysis.
+The dataset contains transaction data, where each row represents an individual order and the columns include information such as Order Date, Customer ID, Product Number, Price, Sector, Category, and Subcategory.
+
 ## Method
 The code follows several steps to achieve this goal:
 
